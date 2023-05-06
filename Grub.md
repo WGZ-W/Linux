@@ -43,6 +43,7 @@ GRUB_DISABLE_OS_PROBER=false
 
 - [更改 GRUB 主题](https://zhuanlan.zhihu.com/p/558980080)  
 - [How To Configure GRUB2 Boot Loader Settings](https://ostechnix.com/configure-grub-2-boot-loader-settings-ubuntu-16-04/)
+- [GRUB themes](https://github.com/jacksaur/Gorgeous-GRUB)
 
 
 将主题文件夹移入 /boot/grub/themes/
