@@ -6,13 +6,13 @@
 - [简单配置窗口管理器](https://zhuanlan.zhihu.com/p/408552473)  
 
 ## 下载
-我使用 `dwm` 作为我的窗口管理器  
+使用 `dwm` 作为窗口管理器  
 ```
 $ git clone https://git.suckless.org/dwm
 ```
 
 ## 配置
-修改 `config.def.h`，删除 `config.h` ，使用 `sudo make clean install` 重新编译安装就可以配置好 `dwm` 了。
+Editing 修改 `config.def.h`，delete 删除 `config.h` ，使用 use `sudo make clean install` 重新编译安装就可以配置好 `dwm` 了。
 
 ## 启动
 ```
@@ -31,7 +31,7 @@ exec dwm
 $ git clone https://git.suckless.org/st
 ```
 ## 配置
-修改 `config.def.h`，删除 `config.h` ，使用 `sudo make clean install` 重新编译安装就可以配置好 `st` 了。
+Editing 修改 `config.def.h`，删除 `config.h` ，使用 `sudo make clean install` 重新编译安装就可以配置好 `st` 了。
 
 ## 半透明状态（alpha）
 首先，我们需要安装一个系统依赖项 `picom`。
